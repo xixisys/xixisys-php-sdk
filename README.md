@@ -18,6 +18,14 @@ $url = $sdk->sdsHtmlUrl('50-00-0');
 
 ```
 
+## API
+```
+string $sdk->sdsHtmlUrl('50-00-0', 'ghs')
+string $sdk->sdsHtml('50-00-0', 'ghs')
+string $sdk->complianceHtmlUrl('50-00-0')
+string $sdk->complianceHtml('50-00-0')
+```
+
 ## Contributing
 
 You can contribute in one of three ways:
